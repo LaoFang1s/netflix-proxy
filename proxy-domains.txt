@@ -5,3 +5,4 @@ nflxvideo.net
 nflxso.net
 nflxext.com
 nflxsearch.net
+ifconfig.co
